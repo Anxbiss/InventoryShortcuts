@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "inventoryshortcuts",
+  "version": "${version}",
+  "name": "InventoryShortcuts",
+  "description": "Create customizable shortcuts Directly to your Survival Inventory",
+  "icon": "assets/inventoryshortcuts/icon.png",
+  "authors": ["Anxbiss"],
+  "contact": {
+    "discord": "@anxbiss",
+    "issues": "https://discord.com/users/868047562421190687"
+  },
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.anxbiss.shortcuts.client.mainClient"
+    ],
+    "modmenu": [
+      "de.anxbiss.shortcuts.client.integration.ShortcutsModMenuApi"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version_range}"
+  }
+}
