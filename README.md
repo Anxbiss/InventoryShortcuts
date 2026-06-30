@@ -48,12 +48,6 @@ Dadurch kannst du die Leisten perfekt an deinen Spielstil anpassen.
 
 ---
 
-## 📸 Vorschau
-
-*Screenshots folgen.*
-
----
-
 ## 💡 Hinweise
 
 - Die Mod läuft vollständig clientseitig.
