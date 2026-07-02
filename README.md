@@ -1,54 +1,54 @@
 # 📦 InventoryShortcuts
 
-> Füge deinem Survival-Inventar praktische Shortcut-Tabs hinzu und führe häufig genutzte Commands mit nur einem Klick aus.
+> Add handy shortcut tabs to your survival inventory and execute frequently used commands with just one click.
 
-InventoryShortcuts ist eine **clientseitige Fabric-Mod**, die dein Inventar um frei konfigurierbare Shortcut-Leisten erweitert. Lege eigene Commands, Labels und Item-Icons fest und greife jederzeit schnell darauf zu.
+InventoryShortcuts is a **client-side Fabric mod** that adds freely configurable shortcut bars to your inventory. Set your own commands, labels, and item icons, and access them quickly at any time.
 
 ---
 
 ## ✨ Features
 
-- 🖱️ Frei konfigurierbare Shortcut-Buttons
-- 📑 Obere und untere Shortcut-Leiste
-- 💬 Eigene Commands für jeden Button
-- 🧱 Beliebige Item-Icons als Button-Thumbnail
-- ⚙️ Umfangreiche Konfiguration
-- ⌨️ Config-Menü per Hotkey
-- 📋 Unterstützung für **Mod Menu** *(optional)*
-- 🌙 Optionales Mondphasen- und Wetter-Display unten rechts
-- 💻 Vollständig clientseitig
-- 🧵 Entwickelt für **Fabric**
+- 🖱️ Freely configurable shortcut buttons
+- 📑 Top and bottom shortcut bars
+- 💬 Custom commands for each button
+- 🧱 Any item icon as a button thumbnail
+- ⚙️ Extensive configuration
+- ⌨️ Config menu via hotkey
+- 📋 Support for **Mod Menu** *(optional)*
+- 🌙 Optional moon phase and weather display in the bottom right corner
+- 💻 Entirely client-side
+- 🧵 Developed for **Fabric**
 
 ---
 
-## ⚙️ Konfiguration
+## ⚙️ Configuration
 
-Alle Shortcut-Buttons können individuell angepasst werden.
+All shortcut buttons can be customized individually.
 
-Für jeden Button lassen sich festlegen:
+For each button, you can specify:
 
 - Name / Label
-- Auszuführender Command
-- Angezeigtes Item-Icon
+- Command to execute
+- Item icon to display
 
-Dadurch kannst du die Leisten perfekt an deinen Spielstil anpassen.
+This allows you to perfectly customize the bars to suit your playstyle.
 
 ---
 
-## 📋 Voraussetzungen
+## 📋 Prerequisites
 
-### Erforderlich
+### Required
 
 - Fabric Loader
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 
 ### Optional
 
-- [Mod Menu](https://modrinth.com/mod/modmenu) – für einen einfachen Zugriff auf die Konfiguration
+- [Mod Menu](https://modrinth.com/mod/modmenu) – for easy access to the configuration
 
 ---
 
-## 💡 Hinweise
+## 💡 Notes
 
-- Die Mod läuft vollständig clientseitig.
-- Die auszuführenden Commands müssen vom jeweiligen Server unterstützt werden.
+- The mod runs entirely on the client side.
+- The commands to be executed must be supported by the respective server.
